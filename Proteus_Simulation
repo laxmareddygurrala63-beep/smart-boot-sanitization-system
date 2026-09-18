@@ -1,0 +1,31 @@
+# Proteus Simulation
+
+Project: Smart Boot Sanitization System
+
+## Components
+- Arduino UNO R3
+- IR Sensor
+- Brush Motor
+- Water Pump
+- Solenoid Valve
+- Green LED
+- Red LED
+- 2N2222/MOSFET driver circuits
+- 1N4007 flyback diodes
+- 220Ω resistors
+- External power supply
+
+## Pin Mapping
+IR Sensor       -> D2
+Brush Motor     -> D3
+Water Pump      -> D4
+Solenoid Valve  -> D5
+Green LED       -> D6
+Red LED         -> D7
+
+## Timing
+Washing         -> 10 seconds
+Sanitization    -> 5 seconds
+
+## Simulation
+Load boot_sanitization.hex into the Arduino UNO component and run the Proteus simulation.
