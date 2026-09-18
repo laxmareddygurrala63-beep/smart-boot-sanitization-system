@@ -24,6 +24,8 @@ Solenoid Valve
 LED Indicators
 Proteus
 Arduino IDE
+
+
 🔧 Hardware Components
 
 
@@ -37,6 +39,8 @@ Red LED
 Power Supply
 Connecting Wires
 Boot Washing/Sanitizing Chamber
+
+
 🔄 Working Principle
 
 
@@ -48,11 +52,13 @@ The solenoid valve controls the water flow.
 After washing, the sanitization process is activated.
 LED indicators show the system status.
 The system automatically stops after completing the programmed cycle.
+
 ⏱️ Process Timing
 
 
 Boot Washing: 10 seconds
 Sanitization: 5 seconds
+
 🧠 Key Features
 
 
@@ -63,6 +69,7 @@ Reduced human intervention
 Simple Arduino-based control
 LED status indication
 Proteus simulation support
+
 📊 Simulation
 
 
