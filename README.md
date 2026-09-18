@@ -9,6 +9,7 @@ Reduce manual cleaning effort.
 Improve hygiene and workplace safety.
 Develop a low-cost and efficient embedded solution.
 Provide automatic operation based on boot detection.
+
 ⚙️ Technologies Used
 Arduino
 C/C++
@@ -66,3 +67,4 @@ Develop a mobile/web monitoring system.
 👨‍💻 Author
 Gurrala Lakshma Reddy
 B.Tech – Electronics and Communication Engineering
+
